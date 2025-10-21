@@ -33,3 +33,6 @@ LinuxNoEditor/
 Android*/ 
 iOS/
 MacNoEditor/
+
+*.ushaderbytecode
+Content/ShaderArchive-*
