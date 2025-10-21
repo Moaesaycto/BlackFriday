@@ -1,0 +1,35 @@
+# Unreal project junk
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Plugins build artefacts
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+Plugins/*/Saved/
+
+# IDE & compiler noise
+.vs/
+.vscode/
+*.sln
+*.suo
+*.user
+*.userprefs
+*.VC.db
+*.VC.opendb
+*.opensdf
+*.sdf
+*.ipch/
+*.obj
+*.pdb
+*.log
+.DS_Store
+Thumbs.db
+
+# Packaged builds (if you ever output inside the project dir)
+WindowsNoEditor/
+LinuxNoEditor/
+Android*/ 
+iOS/
+MacNoEditor/
